@@ -1,0 +1,10 @@
+// Hamza Yousaf
+// C964 - Computer Science Capstone
+
+// requirements for libraries to install before running code
+
+
+pandas
+sklearn
+xgboost
+dash
